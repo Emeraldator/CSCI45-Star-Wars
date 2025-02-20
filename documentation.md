@@ -1,5 +1,5 @@
 # Documentation
-## Written by Celeste Hernandez
+### Written by Celeste Hernandez
 
 Our project works, by having an ultrasound sensor attached to the front of the build that is
 sending out sound waves and calculating how long they take to get back to the sensor to figure
