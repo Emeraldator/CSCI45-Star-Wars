@@ -1,5 +1,11 @@
 #include "motor.h"
 
+int AIN0 = PCF + 0;
+int AIN1 = PCF + 1;
+int AIN2 = PCF + 2;
+
+char *state[7] = {"home", "up", "down", "left", "right", "pressed"};
+
 int direction(){
     int x, y, b;
     int tmp=0;
