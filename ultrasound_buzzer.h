@@ -4,9 +4,9 @@
 #include <stdio.h>
 #include <sys/time.h>
 
-#define BuzzerPin  0
+#define BuzzerPin  26
 #define Trig       1
-#define Echo       2
+#define Echo       4
 
 void ultraInit(void);
 
